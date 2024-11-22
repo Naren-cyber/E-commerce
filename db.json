@@ -1,0 +1,214 @@
+{
+  "products": [
+    {
+      "title": "Shampoo, Conditioner & Face Wash Packs",
+      "category": "Personal Care",
+      "image": "https://e-commerce-templates.vercel.app/assets/images/products/shampoo.jpg",
+      "ratings": 4,
+      "mrp": 200,
+      "price": 180,
+      "id": "shampoo-conditioner-face-wash-packs",
+      "description": "A complete pack for your hair and face care.",
+      "brand": "Dove",
+      "gender": "unisex"
+    },
+    {
+      "title": "Rose Gold diamonds Earring",
+      "image": "https://e-commerce-templates.vercel.app/assets/images/products/jewellery-1.jpg",
+      "ratings": 5,
+      "mrp": 2000,
+      "category": "Jewelry",
+      "price": 1800,
+      "id": "rose-gold-diamonds-earring",
+      "description": "Elegant rose gold earrings with diamond accents.",
+      "brand": "Swarovski",
+      "gender": "women"
+    },
+    {
+      "title": "MEN Yarn Fleece Full-Zip Jacket",
+      "category": "Outerwear",
+      "mrp": 6100,
+      "price": 3000,
+      "image": "https://e-commerce-templates.vercel.app/assets/images/products/jacket-5.jpg",
+      "ratings": 4,
+      "id": "men-yarn-fleece-full-zip-jacket",
+      "description": "Warm and comfortable fleece jacket for men.",
+      "brand": "Nike",
+      "gender": "men"
+    },
+    {
+      "title": "Mens Winter Leathers Jackets",
+      "category": "Outerwear",
+      "mrp": 3200,
+      "price": 2500,
+      "image": "https://e-commerce-templates.vercel.app/assets/images/products/jacket-1.jpg",
+      "ratings": 4,
+      "id": "mens-winter-leathers-jackets",
+      "description": "Stylish leather jacket for the winter season.",
+      "brand": "Levi's",
+      "gender": "men"
+    },
+    {
+      "title": "Mens Winter Leathers Jackets 2",
+      "category": "Outerwear",
+      "mrp": 5000,
+      "price": 3500,
+      "image": "https://e-commerce-templates.vercel.app/assets/images/products/jacket-3.jpg",
+      "ratings": 4,
+      "id": "mens-winter-leathers-jackets-2",
+      "description": "Another stylish option for winter leather jackets.",
+      "brand": "Puma",
+      "gender": "men"
+    },
+    {
+      "title": "Better Basics French Terry Sweat shorts",
+      "category": "Activewear",
+      "mrp": 2000,
+      "price": 1500,
+      "image": "https://e-commerce-templates.vercel.app/assets/images/products/shorts-1.jpg",
+      "ratings": 4,
+      "id": "better-basics-french-terry-sweat-shorts",
+      "description": "Comfortable sweat shorts for casual wear.",
+      "brand": "Adidas",
+      "gender": "unisex"
+    },
+    {
+      "title": "MEN Yarn Fleece Full-Zip Jacket 2",
+      "category": "Outerwear",
+      "mrp": 6500,
+      "price": 5000,
+      "image": "https://e-commerce-templates.vercel.app/assets/images/products/jacket-5.jpg",
+      "ratings": 4,
+      "id": "men-yarn-fleece-full-zip-jacket-2",
+      "description": "Another warm fleece jacket for men.",
+      "brand": "Under Armour",
+      "gender": "men"
+    },
+    {
+      "title": "Mens Winter Leathers Jackets 3",
+      "category": "Outerwear",
+      "mrp": 3200,
+      "price": 2500,
+      "image": "https://e-commerce-templates.vercel.app/assets/images/products/jacket-1.jpg",
+      "ratings": 4,
+      "id": "mens-winter-leathers-jackets-3",
+      "description": "A classic leather jacket for winter.",
+      "brand": "Fossil",
+      "gender": "men"
+    },
+    {
+      "title": "Mens Winter Leathers Jackets 4",
+      "category": "Outerwear",
+      "mrp": 5000,
+      "price": 4700,
+      "image": "https://e-commerce-templates.vercel.app/assets/images/products/jacket-3.jpg",
+      "ratings": 4,
+      "id": "mens-winter-leathers-jackets-4",
+      "description": "Stylish and warm leather jacket for men.",
+      "brand": "AllSaints",
+      "gender": "men"
+    },
+    {
+      "title": "Better Basics French Terry Sweat shorts 2",
+      "category": "Activewear",
+      "mrp": 2000,
+      "price": 1500,
+      "image": "https://e-commerce-templates.vercel.app/assets/images/products/shorts-1.jpg",
+      "ratings": 4,
+      "id": "better-basics-french-terry-sweat-shorts-2",
+      "description": "Comfortable and stylish sweat shorts.",
+      "brand": "H&M",
+      "gender": "unisex"
+    }
+  ],
+  "banners": [
+    {
+      "image": "https://e-commerce-templates.vercel.app/assets/images/banner-1.jpg",
+      "heading": "Trending Item",
+      "title": "Women's latest fashion sale",
+      "price": 20,
+      "href": "#"
+    },
+    {
+      "image": "https://e-commerce-templates.vercel.app/assets/images/banner-2.jpg",
+      "heading": "Trending Accessories",
+      "title": "Modern Sunglasses",
+      "price": 15,
+      "href": "#"
+    },
+    {
+      "image": "https://e-commerce-templates.vercel.app/assets/images/banner-3.jpg",
+      "heading": "Sale Offer",
+      "title": "New Fashion Summer Sale",
+      "price": 29.99,
+      "href": "#"
+    }
+  ],
+  "categories": [
+    {
+      "label": "Clothes",
+      "icon": "https://e-commerce-templates.vercel.app/assets/images/icons/dress.svg",
+      "href": "#"
+    },
+    {
+      "label": "Footwear",
+      "icon": "https://e-commerce-templates.vercel.app/assets/images/icons/shoes.svg",
+      "subcategories": [
+        { "label": "Sneakers", "quantity": 120, "href": "#" },
+        { "label": "Sandals", "quantity": 80, "href": "#" },
+        { "label": "Boots", "quantity": 45, "href": "#" },
+        { "label": "Formal Shoes", "quantity": 30, "href": "#" }
+      ]
+    },
+    {
+      "label": "Jewelry",
+      "icon": "https://e-commerce-templates.vercel.app/assets/images/icons/jewelry.svg",
+      "subcategories": [
+        { "label": "Necklaces", "quantity": 70, "href": "#" },
+        { "label": "Earrings", "quantity": 150, "href": "#" },
+        { "label": "Bracelets", "quantity": 55, "href": "#" },
+        { "label": "Rings", "quantity": 90, "href": "#" }
+      ]
+    },
+    {
+      "label": "Perfume",
+      "icon": "https://e-commerce-templates.vercel.app/assets/images/icons/perfume.svg",
+      "subcategories": [
+        { "label": "Floral Scents", "quantity": 40, "href": "#" },
+        { "label": "Woody Scents", "quantity": 35, "href": "#" },
+        { "label": "Fresh Scents", "quantity": 50, "href": "#" },
+        { "label": "Oriental Scents", "quantity": 20, "href": "#" }
+      ]
+    },
+    {
+      "label": "Cosmetics",
+      "icon": "https://e-commerce-templates.vercel.app/assets/images/icons/cosmetics.svg",
+      "subcategories": [
+        { "label": "Lipstick", "quantity": 95, "href": "#" },
+        { "label": "Foundation", "quantity": 70, "href": "#" },
+        { "label": "Mascara", "quantity": 60, "href": "#" },
+        { "label": "Eyeshadow", "quantity": 45, "href": "#" }
+      ]
+    },
+    {
+      "label": "Glasses",
+      "icon": "https://e-commerce-templates.vercel.app/assets/images/icons/glasses.svg",
+      "subcategories": [
+        { "label": "Sunglasses", "quantity": 110, "href": "#" },
+        { "label": "Prescription Glasses", "quantity": 85, "href": "#" },
+        { "label": "Reading Glasses", "quantity": 40, "href": "#" },
+        { "label": "Blue Light Glasses", "quantity": 55, "href": "#" }
+      ]
+    },
+    {
+      "label": "Bags",
+      "icon": "https://e-commerce-templates.vercel.app/assets/images/icons/bag.svg",
+      "subcategories": [
+        { "label": "Handbags", "quantity": 90, "href": "#" },
+        { "label": "Backpacks", "quantity": 75, "href": "#" },
+        { "label": "Tote Bags", "quantity": 60, "href": "#" },
+        { "label": "Clutches", "quantity": 30, "href": "#" }
+      ]
+    }
+  ]
+}
